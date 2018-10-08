@@ -6,7 +6,7 @@ in ECCV2018
 
 ## Method
 <div align="center">
-    <img src="overview.png" width="200px"</img> 
+    <img src="overview.png" width="500px"</img> 
 </div>   
 
 ## Requirements
