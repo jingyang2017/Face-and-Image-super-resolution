@@ -1,8 +1,7 @@
 # Face and Image Super-resolution
 ## Paper
 Adrian Bulat*, Jing Yang*, Georgios Tzimiropoulos
-''To learn image super-resolution, use a GAN to learn how to do image degradation first''
-in ECCV2018
+''To learn image super-resolution, use a GAN to learn how to do image degradation first'' in ECCV2018
 
 ## Method
 <div align="center">
@@ -14,17 +13,18 @@ in ECCV2018
    * GAN loss driving the image generation process
 
 ## Requirements
+```
     Pytorch 0.4.1
-
-## Results
-testset is testset.tar
+```
+## Data
+Testset is testset.tar
 test_res.tar is our result
 
 
 ## Running testing
-
-CUDA_VISIBLE_DEVICES=0,python model_evaluation.py 
-
+```
+CUDA_VISIBLE_DEVICES=0, python model_evaluation.py 
+```
 ## Citation
 
 @inproceedings{bulat2018learn, 
