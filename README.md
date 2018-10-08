@@ -26,16 +26,15 @@ test_res.tar is our result
 CUDA_VISIBLE_DEVICES=0, python model_evaluation.py 
 ```
 ## Citation
-
+```
 @inproceedings{bulat2018learn, 
   title={To learn image super-resolution, use a GAN to learn how to do image degradation first},
   author={Bulat, Adrian and Yang, Jing and Tzimiropoulos, Georgios},
   booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
   pages={185--200},
-  year={2018}
-  
+  year={2018}  
 }
-
+```
 
 ## License
 
