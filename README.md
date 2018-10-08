@@ -14,7 +14,7 @@ Adrian Bulat*, Jing Yang*, Georgios Tzimiropoulos
 
 ## Requirements
 ```
-    Pytorch 0.4.1
+Pytorch 0.4.1
 ```
 ## Data
 Testset is testset.tar
