@@ -7,10 +7,12 @@ in ECCV2018
 ## Method
 <div align="center">
     <img src="overview.png" width="500px"</img> 
-</div>   
+</div> 
+
    ### High-to-Low GAN using unpaired low and high-resolution images to simulate the image degradation 
    ### Low-to-High GAN using paired low and high-resolution images to learn real-world super resolution
    ### GAN loss driving the image generation process
+
 ## Requirements
     Pytorch 0.4.1
 
