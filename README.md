@@ -17,8 +17,8 @@ Adrian Bulat*, Jing Yang*, Georgios Tzimiropoulos
 Pytorch 0.4.1
 ```
 ## Data
-Testset is testset.tar
-test_res.tar is our result
+* Testset is testset.tar
+* test_res.tar is our result
 
 
 ## Running testing
