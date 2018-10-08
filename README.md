@@ -11,12 +11,12 @@ in ECCV2018
 ## Requirements
     Pytorch 0.4.1
 
-## Results:
+## Results
 testset is testset.tar
 test_res.tar is our result
 
 
-## Running testing:
+## Running testing
 
 CUDA_VISIBLE_DEVICES=0,python model_evaluation.py 
 
