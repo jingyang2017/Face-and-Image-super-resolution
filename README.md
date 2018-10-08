@@ -5,8 +5,9 @@ Adrian Bulat*, Jing Yang*, Georgios Tzimiropoulos
 in ECCV2018
 
 ## Method
-
-![image](FaceSuperresolution/overview.png)    
+<div align="center">
+    <img src="FaceSuperresolution/overview.png" width="400px"</img> 
+</div>   
 
 ## Requirements
     Pytorch 0.4.1
