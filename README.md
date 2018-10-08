@@ -6,7 +6,7 @@ in ECCV2018
 
 ## Method
 <div align="center">
-    <img src="FaceSuperresolution/overview.png" width="200px"</img> 
+    <img src="overview.png" width="200px"</img> 
 </div>   
 
 ## Requirements
