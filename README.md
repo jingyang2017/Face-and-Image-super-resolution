@@ -17,6 +17,7 @@ Adrian Bulat*, Jing Yang*, Georgios Tzimiropoulos
 Pytorch 0.4.1
 ```
 ## Data
+* Trainset is in Dataset. HIGH is the training high resolution images. LOW is the training low resolution images 
 * Testset is testset.tar
 * test_res.tar is our result
 
