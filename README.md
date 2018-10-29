@@ -25,14 +25,14 @@ Pytorch 0.4.1
 ## Running testing
 ```
 CUDA_VISIBLE_DEVICES=0, python model_evaluation.py 
-
+```
 ## Fid Calculation
 ```
 CUDA_VISIBLE_DEVICES=0, python fid_score.py /Dataset/HIGH/SRtrainset_2/ test_res/
-
-Code is from https://github.com/mseitzer/pytorch-fid
-
 ```
+This code is from https://github.com/mseitzer/pytorch-fid
+
+
 ## Citation
 ```
 @inproceedings{bulat2018learn, 
