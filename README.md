@@ -47,3 +47,9 @@ This code is from https://github.com/mseitzer/pytorch-fid
 ## License
 
 This project is licensed under the MIT License
+
+## Third-party Re-implementation
+Thanks for yoon28 providing training: https://github.com/yoon28/unpaired_face_sr
+
+
+```
